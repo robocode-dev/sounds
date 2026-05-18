@@ -1,55 +1,50 @@
 # Credits of the sound files
 
-### death.wav
 
-|                  |                                                     |
-|------------------|-----------------------------------------------------|
-| Name             | explosion                                           |
-| Source           | https://pixabay.com/sound-effects/explosion-107629/ |
-| Orginal filename | explosion-107629.wav                                |
-| Uploaded by      | plamdi1                                             |
+## death
 
-### gunshot.wav
+`Explosion (Ambient) 3.wav` by ullMetalJedi, March 4th, 2017
 
-|                   |                                                          |
-|-------------------|----------------------------------------------------------|
-| Name              | laser gun sound                                          |
-| Source            | https://pixabay.com/sound-effects/laser-gun-sound-40813/ |
-| Original filename | laser_gun_sound-40813.wav                                |
-| Uploaded by       | Smoker858                                                |
+https://freesound.org/people/FullMetalJedi/sounds/382943/
 
-### bullet_hit.wav
+filename: `382943__fullmetaljedi__explosion-ambient-3.wav`
 
-|                   |                                                    |
-|-------------------|----------------------------------------------------|
-| Name              | Smoke Bomb                                         |
-| Source            | https://pixabay.com/sound-effects/smoke-bomb-6761/ |
-| Original filename | smoke-bomb-6761.wav                                |
-| Uploaded by       | vckhaze                                            |
+## gunshot
 
-### wall_collision.wav
+`cap shot 2.wav` by jordanielmills, September 15th, 2012
 
-|                   |                                                   |
-|-------------------|---------------------------------------------------|
-| Name              | Car Door                                          |
-| Source            | https://pixabay.com/sound-effects/car-door-47981/ |
-| Original filename | car-door-47981.wav                                |
-| Uploaded by       | amy2018                                           |
+https://freesound.org/people/jordanielmills/sounds/165271/
 
-### bots_collision.wav
+filename: `165271__jordanielmills__cap-shot-2.wav`
 
-|                   |                                                                   |
-|-------------------|-------------------------------------------------------------------|
-| Name              | Clank Car Crash Collision                                         |
-| Source            | https://pixabay.com/sound-effects/clank-car-crash-collision-6206/ |
-| Original filename | clank-car-crash-collision-6206.wav                                |
-| Uploaded by       | qubodup                                                           |
+## bullet_hit
 
-### bullets_collision.wav
+`Sharp Explosion 4 (of 5)` Rudmer_Rotteveel, February 10th, 2016
 
-|                   |                                                        |
-|-------------------|--------------------------------------------------------|
-| Name              | 080997 Bullet                                          |
-| Source            | https://pixabay.com/sound-effects/080997-bullet-39735/ |
-| Original filename | 080997_bullet-39735.wav                                |
-| Uploaded by       | pixabay                                                |
+https://freesound.org/people/Rudmer_Rotteveel/sounds/336011/
+
+filename: `336011__rudmer_rotteveel__sharp-explosion-4-of-5.wav`
+
+## wall_collision
+
+`slap_concrete_04.wav` by movingplaid, January 25th, 2010
+
+https://freesound.org/people/movingplaid/sounds/88554/
+
+filename: `88554__movingplaid__slap_concrete_04.wav`
+
+## bullets_collision
+
+`whoosh low` by MeanRaccoon, October 25th, 2025
+
+https://freesound.org/people/MeanRaccoon/sounds/830856/
+
+filename: `830856__meanraccoon__whoosh-low.wav`
+
+## bots_collision
+
+`Yamaha Kick [hard]`by YellowTree, August 18th, 2019
+
+https://freesound.org/people/YellowTree/sounds/479917/
+
+filename: `479917__yellowtree__yamaha-kick-hard.wav`
