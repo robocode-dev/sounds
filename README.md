@@ -37,12 +37,16 @@ chmod +x install.sh
 
 ### Manual installation
 
-Copy the `sounds/` folder into your Tank Royale directory:
+Copy the contents of the `sounds/` folder into `<target>/sounds`:
 
 ```bash
 # macOS / Linux
-cp -r sounds/ /path/to/tank-royale/
+mkdir -p /path/to/tank-royale/sounds
+cp -r sounds/. /path/to/tank-royale/sounds/
+```
 
+```powershell
 # Windows (PowerShell)
-Copy-Item -Path sounds -Destination C:\path\to\tank-royale\sounds -Recurse
+New-Item -ItemType Directory -Force C:\path\to\tank-royale\sounds
+Copy-Item -Path sounds\* -Destination C:\path\to\tank-royale\sounds -Recurse -Force
 ```

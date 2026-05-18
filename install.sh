@@ -23,5 +23,6 @@ if [[ ! -d "$target_dir" ]]; then
 fi
 
 echo "Copying sounds to: $dest_dir"
-cp -r "$source_dir" "$dest_dir"
+mkdir -p "$dest_dir"
+cp -r "$source_dir/." "$dest_dir/"
 echo "Done."

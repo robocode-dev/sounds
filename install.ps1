@@ -21,5 +21,6 @@ if (-not (Test-Path $targetDir)) {
 }
 
 Write-Host "Copying sounds to: $destDir"
-Copy-Item -Path $sourceDir -Destination $destDir -Recurse -Force
+New-Item -ItemType Directory -Force -Path $destDir | Out-Null
+Copy-Item -Path (Join-Path $sourceDir "*") -Destination $destDir -Recurse -Force
 Write-Host "Done."
